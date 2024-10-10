@@ -1,0 +1,48 @@
+.App {
+    --color-text: #000;
+    --color-bg: #fff;
+    --color-accent: #0066cc;
+    --color-not-accent: #f5f7fb;
+
+    --shadow: 0px 1px 2px 0px rgba(29, 33, 38, 0.1), 0px 5px 20px 0px rgba(29, 33, 38, 0.03);
+    --img-size: 40px;
+
+
+    --message-margin-bottom: 47px;
+    --message-img-margin: 12px;
+    --message-text-paddings: 8px 12px;
+    --message-border-radius: 12px;
+
+    --message-text-width: 515px;
+    --message-freinds-text-width: 414px;
+    --message-text-height: 60px;
+
+
+    --header_height: 60px;
+
+
+    max-width: 1280px;
+    margin: 132px auto 0;
+    color: var(--color-text);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    background: var(--color-bg);
+
+}
+
+.hw {
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 1px solid #d9d9d9;
+    padding: 24.5px 70px 32px;
+
+}
+
+.hwTitle {
+    margin: 0 0 9.5px 70px;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 27px
+}
